@@ -1,3 +1,8 @@
+#NOT FINISHED
+#ERRORS NEEDS TO BE SOLVED
+
+
+
 def countWords(S):
    while S != e:
       for i in range(len(list)):

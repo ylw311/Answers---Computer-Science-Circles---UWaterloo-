@@ -10,3 +10,5 @@ Took 9 days to complete.
 (2020 June 18-30 // did not work on weekends)
 
 Official beginning of my code journey!
+
+Note: this repository does not include the answer to short answer questions and scramble questions.

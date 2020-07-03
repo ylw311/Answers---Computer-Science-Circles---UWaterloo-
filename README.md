@@ -1,5 +1,5 @@
 # Answers---Computer-Science-Circles---UWaterloo
-My answers to UWaterloo's CS Circles's python exercises.
+## My answers to UWaterloo's CS Circles's python exercises.
 
 Skipped 6 questions out of 110 total: most was due to my inability to comprehend the question, others I simply wasn't able to solve.
 I will go back in the future to solve them when I possess more knowledge.
@@ -15,13 +15,13 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-Computer Science Circles Unit and Exercise names:
+## Computer Science Circles Unit and Exercise names:
 
-0: Hello!	
+##### 0: Hello!	
 
 0: Bonjour
 
-1: Variables	
+##### 1: Variables	
 
 1: x Marks the Spot
 1: Heads, Shoulders, Knees and Toes
@@ -32,7 +32,7 @@ Computer Science Circles Unit and Exercise names:
 1E: Hello Joe
 1E: Shopping
 
-2: Functions	
+##### 2: Functions	
 
 2: Min and Max I
 2: Min and Max II
@@ -40,7 +40,7 @@ Computer Science Circles Unit and Exercise names:
 2: Two Roads
 2: Sort of Strangeness
 
-2X: Extra Practice	
+##### 2X: Extra Practice	
 
 2X: Growth Debugging
 2X: Simplification
@@ -48,22 +48,22 @@ Computer Science Circles Unit and Exercise names:
 2X: Payment Calculator
 2X: Sorting Scramble
 
-3: Comments and Quotes	
+##### 3: Comments and Quotes	
 
 3: Second Guessing
 3: Escape Characters
 3: The Great Escape
 
-4: Types	
+##### 4: Types	
 
 4: Floating
 4: Tasty Typecasting
 
-5: Input	
+##### 5: Input	
 
 5: Echo
 
-6: If	
+##### 6: If	
 
 6: IHOPython
 6: Unexpected Indent
@@ -74,11 +74,11 @@ Computer Science Circles Unit and Exercise names:
 6: Nested <code>if</code>s
 6: Age checker
 
-6D: Design, Debugging and Donuts	
+##### 6D: Design, Debugging and Donuts	
 
 6D: Timbits
 
-7A: Strings	
+##### 7A: Strings	
 
 7A: Last Character
 7A: String Shaving
@@ -87,7 +87,7 @@ Computer Science Circles Unit and Exercise names:
 7A: Pig Latin
 7A: The Name 
 
-7B: Math	
+##### 7B: Math	
 
 7B: Eggsactly
 7B: Divisibility
@@ -98,7 +98,7 @@ Computer Science Circles Unit and Exercise names:
 7B: A Feat With Feet
 7B: Gravity
 
-7C: Loops	
+##### 7C: Loops	
 
 7C: Countup
 7C: One Triangle
@@ -106,7 +106,7 @@ Computer Science Circles Unit and Exercise names:
 7C: Skipping
 7C: Finding Factors
 
-8: Remix	
+##### 8: Remix	
 
 8: Python Adder
 8: Substring Counting
@@ -115,7 +115,7 @@ Computer Science Circles Unit and Exercise names:
 8: Ending Time
 8: Character Map
 
-9: Else, And, Or, Not	
+##### 9: Else, And, Or, Not	
 
 9: Absolute Value
 9: First, Second, Third
@@ -123,35 +123,35 @@ Computer Science Circles Unit and Exercise names:
 9: De Morgan's Law
 9: Order of Operations
 
-10: def	
+##### 10: def	
 
 10: Cubism
 10: In-n-Out
 10: Rectangle
 
-11A: Lower Case	
+##### 11A: Lower Case	
 
 11A: Lower-case Characters
 11A: Lower-case Strings
 
-11B: Variable Scope	
+##### 11B: Variable Scope	
 
 11B: Inner and Outer
 
-11C: Geometry
+##### 11C: Geometry
 
 11C: Hypotenuse
 11C: The Triangles are Right
 11C: 2D Distance
 11C: Secure the Perimeter
 
-12: Tips	
+##### 12: Tips	
 
 12: Alphabet Aerobics
 12: Lucky Sevens
 12: One None
 
-13: Lists (Arrays)	
+##### 13: Lists (Arrays)	
 
 13: Meta-Stuff
 13: Monkey in the Middle
@@ -162,32 +162,32 @@ Computer Science Circles Unit and Exercise names:
 13: Mystery Function
 13: à la Mode
 
-14: Methods	
+##### 14: Methods	
 
 14: The Replacements
 14: Exact Postage
 
-15A: Termination Determination	
+##### 15A: Termination Determination	
 
 15A: Reading the Program
 15A: Go to it!
 15A: Smart Simulation
 15A: BASIC Simulator
 
-15B: Python Pushups	
+##### 15B: Python Pushups	
 
 15B: Forty Below In The Winter
 15B: Credit Check
 15B: Poetic Analysis
 15B: Be Choosy
 
-15C: Caesar's JVTIVK JRCRU IVTZGV	
+##### 15C: Caesar's JVTIVK JRCRU IVTZGV	
 
 15C: Spy Coder
 15C: Spy Decoder
 15C: Auto-Decryption
 
-16: Recursion	
+##### 16: Recursion	
 
 16: Blast Up
 16: Double Time
@@ -198,12 +198,12 @@ Computer Science Circles Unit and Exercise names:
 16: Searching a Nested List
 16: Fractal Ruler 
 
-17: Is	
+##### 17: Is	
 
 17: List Argument 
 17: True Count
 
-18: Efficiency	
+##### 18: Efficiency	
 
 18: Nibofacci 
 18: Fast Fibonacci

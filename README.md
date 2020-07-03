@@ -21,6 +21,8 @@ Note: this repository does not include the answer to short answer questions and 
 
 0: Bonjour
 
+-
+
 ##### >> 1: Variables	<<
 
 1: x Marks the Spot
@@ -39,6 +41,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 1E: Shopping
 
+-
 
 ##### >> 2: Functions	<<
 
@@ -51,6 +54,8 @@ Note: this repository does not include the answer to short answer questions and 
 2: Two Roads
 
 2: Sort of Strangeness
+
+-
 
 ##### >> 2X: Extra Practice	<<
 
@@ -65,6 +70,7 @@ Note: this repository does not include the answer to short answer questions and 
 2X: Sorting Scramble
 
 
+-
 
 ##### >> 3: Comments and Quotes	<<
 
@@ -76,6 +82,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 3: The Great Escape
 
+-
 
 
 ##### >> 4: Types	<<
@@ -86,6 +93,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 4: Tasty Typecasting
 
+-
 
 
 ##### >> 5: Input	<<
@@ -94,6 +102,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 5: Echo
 
+-
 
 
 ##### >> 6: If	<<
@@ -117,6 +126,7 @@ Note: this repository does not include the answer to short answer questions and 
 6: Age checker
 
 
+-
 
 ##### >> 6D: Design, Debugging and Donuts	<<
 
@@ -125,6 +135,7 @@ Note: this repository does not include the answer to short answer questions and 
 6D: Timbits
 
 
+-
 
 ##### >> 7A: Strings	<<
 
@@ -142,6 +153,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 7A: The Name 
 
+-
 
 
 ##### >> 7B: Math	<<
@@ -164,6 +176,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 7B: Gravity
 
+-
 
 
 ##### >> 7C: Loops	<<
@@ -181,6 +194,7 @@ Note: this repository does not include the answer to short answer questions and 
 7C: Finding Factors
 
 
+-
 
 ##### >> 8: Remix	<<
 
@@ -198,6 +212,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 8: Character Map
 
+-
 
 
 ##### >> 9: Else, And, Or, Not	<<
@@ -214,6 +229,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 9: Order of Operations
 
+-
 
 
 ##### >> 10: def	<<
@@ -226,6 +242,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 10: Rectangle
 
+-
 
 
 ##### >> 11A: Lower Case	<<
@@ -235,6 +252,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 11A: Lower-case Strings
 
+-
 
 
 ##### >> 11B: Variable Scope	<<
@@ -244,6 +262,7 @@ Note: this repository does not include the answer to short answer questions and 
 11B: Inner and Outer
 
 
+-
 
 ##### >> 11C: Geometry <<
 
@@ -257,6 +276,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 11C: Secure the Perimeter
 
+-
 
 
 ##### >> 12: Tips	<<
@@ -269,6 +289,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 12: One None
 
+-
 
 
 ##### >> 13: Lists (Arrays)	<<
@@ -291,6 +312,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 13: à la Mode
 
+-
 
 
 ##### >> 14: Methods	<<
@@ -301,6 +323,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 14: Exact Postage
 
+-
 
 
 ##### >> 15A: Termination Determination	<<
@@ -315,6 +338,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 15A: BASIC Simulator
 
+-
 
 
 ##### >> 15B: Python Pushups	<<
@@ -330,6 +354,7 @@ Note: this repository does not include the answer to short answer questions and 
 15B: Be Choosy
 
 
+-
 
 ##### >> 15C: Caesar's JVTIVK JRCRU IVTZGV	<<
 
@@ -342,6 +367,7 @@ Note: this repository does not include the answer to short answer questions and 
 15C: Auto-Decryption
 
 
+-
 
 ##### >> 16: Recursion	<<
 
@@ -363,6 +389,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 16: Fractal Ruler 
 
+-
 
 
 ##### >> 17: Is	<<
@@ -373,6 +400,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 17: True Count
 
+-
 
 
 ##### >> 18: Efficiency	<<

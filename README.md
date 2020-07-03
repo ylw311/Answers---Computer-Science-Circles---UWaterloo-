@@ -1,5 +1,5 @@
 # Answers---Computer-Science-Circles---UWaterloo
-## My answers to UWaterloo's CS Circles's python exercises.
+My answers to UWaterloo's CS Circles's python exercises.
 
 Skipped 6 questions out of 110 total: most was due to my inability to comprehend the question, others I simply wasn't able to solve.
 I will go back in the future to solve them when I possess more knowledge.
@@ -17,11 +17,11 @@ Note: this repository does not include the answer to short answer questions and 
 
 ## Computer Science Circles Unit and Exercise names:
 
-##### 0: Hello!	
+##### >> 0: Hello!	
 
 0: Bonjour
 
-##### 1: Variables	
+##### >> 1: Variables	
 
 1: x Marks the Spot
 
@@ -40,7 +40,7 @@ Note: this repository does not include the answer to short answer questions and 
 1E: Shopping
 
 
-##### 2: Functions	
+##### >> 2: Functions	
 
 2: Min and Max I
 
@@ -52,7 +52,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 2: Sort of Strangeness
 
-##### 2X: Extra Practice	
+##### >> 2X: Extra Practice	
 
 2X: Growth Debugging
 
@@ -66,7 +66,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 3: Comments and Quotes	
+##### >> 3: Comments and Quotes	
 
 
 
@@ -78,7 +78,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 4: Types	
+##### >> 4: Types	
 
 
 
@@ -88,7 +88,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 5: Input	
+##### >> 5: Input	
 
 
 
@@ -96,7 +96,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 6: If	
+##### >> 6: If	
 
 
 
@@ -118,7 +118,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 6D: Design, Debugging and Donuts	
+##### >> 6D: Design, Debugging and Donuts	
 
 
 
@@ -126,7 +126,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 7A: Strings	
+##### >> 7A: Strings	
 
 
 
@@ -144,7 +144,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 7B: Math	
+##### >> 7B: Math	
 
 
 
@@ -166,7 +166,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 7C: Loops	
+##### >> 7C: Loops	
 
 
 
@@ -182,7 +182,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 8: Remix	
+##### >> 8: Remix	
 
 
 
@@ -200,7 +200,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 9: Else, And, Or, Not	
+##### >> 9: Else, And, Or, Not	
 
 
 
@@ -216,7 +216,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 10: def	
+##### >> 10: def	
 
 
 
@@ -228,7 +228,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 11A: Lower Case	
+##### >> 11A: Lower Case	
 
 
 
@@ -238,7 +238,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 11B: Variable Scope	
+##### >> 11B: Variable Scope	
 
 
 
@@ -246,7 +246,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 11C: Geometry
+##### >> 11C: Geometry
 
 
 
@@ -260,7 +260,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 12: Tips	
+##### >> 12: Tips	
 
 
 
@@ -272,7 +272,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 13: Lists (Arrays)	
+##### >> 13: Lists (Arrays)	
 
 
 
@@ -294,7 +294,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 14: Methods	
+##### >> 14: Methods	
 
 
 
@@ -304,7 +304,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 15A: Termination Determination	
+##### >> 15A: Termination Determination	
 
 
 
@@ -318,7 +318,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 15B: Python Pushups	
+##### >> 15B: Python Pushups	
 
 
 
@@ -332,7 +332,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 15C: Caesar's JVTIVK JRCRU IVTZGV	
+##### >> 15C: Caesar's JVTIVK JRCRU IVTZGV	
 
 
 
@@ -344,7 +344,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 16: Recursion	
+##### >> 16: Recursion	
 
 
 
@@ -366,7 +366,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 17: Is	
+##### >> 17: Is	
 
 
 
@@ -376,7 +376,7 @@ Note: this repository does not include the answer to short answer questions and 
 
 
 
-##### 18: Efficiency	
+##### >> 18: Efficiency	
 
 
 18: Nibofacci 

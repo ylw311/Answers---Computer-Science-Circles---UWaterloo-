@@ -1,5 +1,5 @@
 # Answers to UW Computer Science Circles 
-My answers to UWaterloo's CS Circles's python exercises.
+My answers to UWaterloo's CS Circles's python exercises at https://cscircles.cemc.uwaterloo.ca/
 
 Skipped 6 questions out of 110 total: most was due to my inability to comprehend the question, others I simply wasn't able to solve.
 

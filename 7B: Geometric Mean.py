@@ -1,14 +1,4 @@
 import math
-
-a = input()
-b = input()
-
-aNum = float(a)
-bNum = float(b)
-
-x = aNum*bNum
-
-squarRootN = math.sqrt(x)
-
-print(squarRootN)
-
+a = float(input())
+b = float(input())
+print(math.sqrt(a*b))

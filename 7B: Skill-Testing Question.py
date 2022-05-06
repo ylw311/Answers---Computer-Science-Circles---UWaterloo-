@@ -1,11 +1,5 @@
-a = input()
-b = input()
-c = input()
+a = int(input())
+b = int(input())
+c = int(input())
 
-aN = int(a)
-bN = int(b)
-cN = int(c)
-
-number = (aN + bN) * cN
-
-print(number)
+print((a+b)*c)

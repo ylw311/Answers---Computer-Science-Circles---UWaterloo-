@@ -11,3 +11,10 @@ while checkN < n-1:
       print(checkN)
    if math.sqrt(checkN) != checkNI:
       continue
+
+#----------or
+n=int(input())
+count = 1
+while count*count <n:
+   print(count*count)
+   count+=1  

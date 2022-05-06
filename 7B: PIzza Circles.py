@@ -1,11 +1,3 @@
 import math
-
-inFloa = input()
-
-pRadius = float(inFloa)
-
-pI = math.pi
-pArea =pI*pRadius**2 
-
-print (pArea)
-
+r = float(input())
+print(math.pi * r**2)

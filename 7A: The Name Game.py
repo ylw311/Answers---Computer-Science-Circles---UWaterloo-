@@ -8,3 +8,12 @@ print(line1)
 print(line2)  
 print(line3)  
 print(line4)  
+
+
+#--------------or
+
+name = input()
+print((name + ", ")*2 + "bo-b" + name[1:len(name)])
+print("banana-fana " + "fo-f" + name[1:len(name)])
+print("fee-fi-mo-m" + name[1:len(name)])
+print(name + "!")

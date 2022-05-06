@@ -1,7 +1,1 @@
-inp = input()
-
-heightF = float(inp)
-
-heightC = heightF * 30.48
-
-print(heightC)
+print(float(input()) * 30.48)

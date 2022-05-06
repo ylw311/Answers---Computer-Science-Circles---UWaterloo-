@@ -1,4 +1,3 @@
-nEggs = input()
-nee = int(nEggs)
-print(nee // 12)
-print(nee % 12)
+eggs = int(input())
+print(eggs//12)
+print(eggs%12)

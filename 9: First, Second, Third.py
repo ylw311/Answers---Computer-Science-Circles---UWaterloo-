@@ -1,10 +1,10 @@
 x = int(input())
 
-if x == 1:
-   print(str(x)+"st")
+if x==1:
+   print("1st")
 elif x == 2:
-   print(str(x)+"nd")
+   print("2nd")
 elif x == 3:
-   print(str(x)+"rd")
+   print("3rd")
 else:
    print(str(x)+"th")

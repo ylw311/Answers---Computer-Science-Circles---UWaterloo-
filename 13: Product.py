@@ -1,5 +1,5 @@
 def prod(L):
-   p = L[0]
-   for i in range(1, len(L)):
-      p = p*L[i]  
-   return p
+   total = 1
+   for i in range(len(L)):
+      total*=L[i]
+   return total

@@ -4,3 +4,10 @@ def naturalNumbers(n):
       mylist = mlist+[i]
    return mylist
   
+#-----or
+   
+def naturalNumbers(n):
+   list = []
+   for i in range(n):
+      list = list + [i+1]
+   return list

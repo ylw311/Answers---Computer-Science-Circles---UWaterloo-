@@ -1,11 +1,7 @@
-def getBASIC():
-   list = []
-   e = 'END'
-   while True:
-      i = input()
-      if i.endswith(e):
-         list.append(i)
-         return list
-      else:
-         list.append(i)
-   
+def replace(list, X, Y):
+   count = list.count(X)
+   for i in range(count):
+      index = list.index(X)
+      list.pop(index)
+      list.insert(index,Y)
+               

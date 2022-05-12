@@ -15,3 +15,11 @@ def postalValidate(S):
    else:
       return False
    
+
+#-----------or
+def postalValidate(S):
+   S = S.replace(" ","")
+   if (len(S) == 6) and (S[0].isalpha() and S[2].isalpha() and S[4].isalpha() == True) and (S[1].isdigit() and S[3].isdigit() and S[5].isdigit() == True):
+      S = S.upper()
+      return S
+   return False

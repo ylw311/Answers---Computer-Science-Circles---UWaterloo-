@@ -3,11 +3,6 @@ My answers to UWaterloo's CS Circles's python exercises at https://cscircles.cem
 
 Let me know if I missed any answers.
 
-Submitted 1263 code files.
-
-Took 9 days to complete.
-(2020 June 18-30 // did not work on weekends)
-
 Note: this repository does not include the answer to short answer questions and scramble questions.
 
 
